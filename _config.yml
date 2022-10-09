@@ -262,7 +262,6 @@ defaults:
       share: true
       related: true
       show_data: true
-      author_profile: true
       sidebar:
         nav: "docs"
   
