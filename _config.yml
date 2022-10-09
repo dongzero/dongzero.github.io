@@ -269,6 +269,6 @@ defaults:
       related: true
       show_data: true
       sidebar:
-      nav: "docs"
+        nav: "docs"
   
 data_format: "%Y-%m-%d"
