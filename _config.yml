@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "DongYoung"
+title                    : "DongYoung Blog"
 title_separator          : "|"
-subtitle                 : "My Blog"
-name                     : "DongYoung"
+subtitle                 : "My IT Space"
+name                     : "My Blog"
 description              : "자기계발 블로그입니다."
 url                      : "https://dongzero.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "DongYoung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "포트폴리오 및 개발공부 Blog"
+  location         : "South Korea"
+  email            : "shehd31@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
