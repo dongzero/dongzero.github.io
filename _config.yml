@@ -259,7 +259,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: docs
     values:
       layout: single
       author_profile: true
@@ -268,5 +268,7 @@ defaults:
       share: true
       related: true
       show_data: true
+      sidebar:
+      nav: "docs"
   
 data_format: "%Y-%m-%d"
