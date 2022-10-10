@@ -1,3 +1,7 @@
+main:
+  - title: "Search"
+    url: /search/
+
 sidebar-category:
   - title: "SERVER"
     children:
