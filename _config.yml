@@ -262,9 +262,10 @@ defaults:
       share: true
       related: true
       show_data: true
-  
-data_format: "%Y-%m-%d"
+        data_format: "%Y-%m-%d"
+      sidebar:
+        title: main
+         nav: sidebar
+         
+      
 
-sidebar:
-  title: "Sample Title"
-  nav: sidebar-sample
