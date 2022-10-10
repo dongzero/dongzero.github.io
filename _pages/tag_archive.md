@@ -1,7 +1,9 @@
 ---
 title: "Tag"
-layout: archive
-permalink: /tags
+layout: tags
+permalink: /tags/
+author_pofile: true
+sidebar_main: true
 ---
 
 {% assign posts = site.categories.tags %}
