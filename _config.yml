@@ -264,8 +264,7 @@ defaults:
       show_data: true
         data_format: "%Y-%m-%d"
       sidebar:
-        title: Category
-         nav: sidebar
+         nav: "sidebar-category"
          
       
 
