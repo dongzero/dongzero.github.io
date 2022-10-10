@@ -3,7 +3,7 @@ sidebar-category:
   - title: "Category"
     children:
      - title: "Category"
-        url: /Category/
+        url: /categories/
      - title: "Tag"
         url: /tags/
   
