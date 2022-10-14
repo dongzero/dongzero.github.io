@@ -6,10 +6,11 @@ toc: true
 ---
 
 ## 사전(dictionary)
-
+<span style = "font-size:80%">
 comment)
 딕셔너리는 리스트나 튜플처럼 순차적으로 해당 요소값을 구하지않고
 key를 통해 value를 얻는다.
+<span>
 
 ```python
 cabinet = {3:"노동영", 200:"유권영"}

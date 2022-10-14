@@ -5,12 +5,12 @@ main:
 sidebar-category:
   - title: "SERVER"
     children:
-      - title: "Apache"
+      - title: "Apache (예정)"
         url: "/blog"
 
   - title: "DB"
     children:
-      - title: "My SQL"
+      - title: "My SQL (예정)"
         url: "/blog"
 
   - title: "PROGAMMING"
@@ -18,7 +18,14 @@ sidebar-category:
       - title: "Pyhton"
         url: "Pyhton"
       - title: "Java"
-        url:  "/Java"  
+        url: "Java"
+      - title: "Javascript"
+        url: "Javascript"
+
+  - title: "ECT"
+    children:
+      - title: "HTMLㅣCSS"
+        url: "html_css"        
 
 
 
