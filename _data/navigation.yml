@@ -22,10 +22,10 @@ sidebar-category:
       - title: "Javascript"
         url: "Javascript"
 
-  - title: "ECT"
-    children:
-      - title: "HTMLㅣCSS"
-        url: "html_css"        
+  # - title: "ECT"
+  #   children:
+  #     - title: "HTMLㅣCSS"
+  #       url: "html_css"        
 
 
 
